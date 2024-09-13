@@ -1,0 +1,3 @@
+c:/Users/Sif/Desktop/cppbasics/build/CMakeFiles/basics.dir
+c:/Users/Sif/Desktop/cppbasics/build/CMakeFiles/edit_cache.dir
+c:/Users/Sif/Desktop/cppbasics/build/CMakeFiles/rebuild_cache.dir

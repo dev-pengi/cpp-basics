@@ -1,0 +1,8 @@
+[
+{
+  "directory": "c:/Users/Sif/Desktop/cppbasics/build",
+  "command": "/usr/bin/c++.exe   -g -o CMakeFiles/basics.dir/C_/Users/Sif/Desktop/cppbasics/main.cpp.o -c C:/Users/Sif/Desktop/cppbasics/main.cpp",
+  "file": "C:/Users/Sif/Desktop/cppbasics/main.cpp",
+  "output": "c:/Users/Sif/Desktop/cppbasics/build/CMakeFiles/basics.dir/C_/Users/Sif/Desktop/cppbasics/main.cpp.o"
+}
+]

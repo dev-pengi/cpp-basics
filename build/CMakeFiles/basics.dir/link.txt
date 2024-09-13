@@ -1,0 +1,1 @@
+/usr/bin/c++.exe CMakeFiles/basics.dir/C_/Users/Sif/Desktop/cppbasics/main.cpp.o -o c:/Users/Sif/Desktop/cppbasics/build/basics.exe
