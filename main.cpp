@@ -1,5 +1,3 @@
 #include <iostream>
 
-int main(int, char **) {
-   std::cout << "Hello, from basics!\n";
-}
+int main(int, char **) { std::cout << "Hello, from basics!\n"; }
